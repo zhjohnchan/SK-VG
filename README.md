@@ -1,11 +1,12 @@
 # Advancing Visual Grounding with Scene Knowledge: Benchmark and Method (SK-VG)
 
+## Introduction
 We introduce a challenging task that requires VG models to reason over **(image, scene knowledge, query)** triples and build a new dataset named SK-VG on top of real images through manual annotations.
 In SK-VG, the image content and referring expressions  are not sufficient to ground the target objects, forcing the models to have a reasoning ability on the long-form scene  knowledge.
 
 ![image](assets/animation.gif)
 
-# An example
+## An example
 ```angular2html
 {
       "image_name": "3853.jpg",
@@ -20,11 +21,11 @@ In SK-VG, the image content and referring expressions  are not sufficient to gro
 }
 ```
 
-# Data
+## Data
 
 You can download the dataset from [Google Drive](https://drive.google.com/file/d/1XShB2JK0WDG_KDRE2obCHuAjkoCmTo4f/view?usp=sharing).
 
-# Citation
+## Citation
 If you find this dataset helpful, please cite the paper below.
 
 ```angular2html
