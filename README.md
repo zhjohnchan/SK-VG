@@ -1,8 +1,7 @@
 # Advancing Visual Grounding with Scene Knowledge: Benchmark and Method (SK-VG)
 
-A novel benchmark of Scene Knowledge-guided Visual Grounding (**SK-VG**), where the image content and referring expressions
-are not sufficient to ground the target objects, forcing the models to have a reasoning ability on the long-form scene
-knowledge.
+We introduce a challenging task that requires VG models to reason over (image, scene knowledge, query) triples and build a new dataset named SK-VG on top of real images through manual annotations.
+In SK-VG, the image content and referring expressions  are not sufficient to ground the target objects, forcing the models to have a reasoning ability on the long-form scene  knowledge.
 
 ![image](assets/animation.gif)
 
