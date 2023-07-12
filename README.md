@@ -5,6 +5,21 @@ In SK-VG, the image content and referring expressions  are not sufficient to gro
 
 ![image](assets/animation.gif)
 
+# An example
+```angular2html
+{
+      "image_name": "3853.jpg",
+      "knowledge": "The man on the far right of the image is Spider-Man Bruce. A spider is painted on his back. His enemy Brandon is floating in the air across from him, wearing sunglasses. Brandon's servant Tom is behind Brandon, holding a cane in his hand. Bruce comes to destroy them today. ",
+      "ref_exp": "Bruce's enemy Brandon",
+      "bbox": {
+        "x": 1063.1217116217117,
+        "y": 385.6505161505161,
+        "width": 430.26939726939736,
+        "height": 705.6600066600066
+      }
+}
+```
+
 # Data
 
 You can download the dataset from [Google Drive](https://drive.google.com/file/d/1XShB2JK0WDG_KDRE2obCHuAjkoCmTo4f/view?usp=sharing).
