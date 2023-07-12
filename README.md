@@ -1,4 +1,4 @@
-# Advancing Visual Grounding with Scene Knowledge: Benchmark and Method (SK-VG)
+# SK-VG
 The official dataset of [Advancing Visual Grounding with Scene Knowledge: Benchmark and Method](https://openaccess.thecvf.com/content/CVPR2023/papers/Song_Advancing_Visual_Grounding_With_Scene_Knowledge_Benchmark_and_Method_CVPR_2023_paper.pdf).
 
 ## Introduction
